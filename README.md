@@ -9,4 +9,5 @@ El equipo está conformado por Luisa Acevedo, Daniel Castañeda, Rodrigo Hurtado
 
 
 Daniel Castañeda es docente de matemáticas, con experiencia previa en lenguajes como Python, Java , Lua y Haskell.
+
 Rodrigo Hurtado es comunicador y politologo y no tiene experiencia previa en lenguajes de programación salvo lo visto en Misión TIC
